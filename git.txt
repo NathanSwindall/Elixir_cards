@@ -4,3 +4,13 @@ git push -u origin <branch_name>
 
 iex -S mix // command for running the elixir shell
 How do we change the branch though
+
+
+dependencies
+add to the mix.exs file
+to install mix deps.get
+
+ex_doc
+mix docs // command makes an html with a documentation
+
+for code have three indents
